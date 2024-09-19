@@ -1,4 +1,4 @@
-E:/Excercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/freelancer-rates.dir
-E:/Excercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/test_freelancer-rates.dir
-E:/Excercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Excercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Exercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/freelancer-rates.dir
+E:/Exercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/test_freelancer-rates.dir
+E:/Exercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Exercism/cpp/freelancer-rates/cmake-build-debug/CMakeFiles/rebuild_cache.dir

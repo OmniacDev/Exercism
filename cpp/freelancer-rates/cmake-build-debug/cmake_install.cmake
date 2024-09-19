@@ -1,4 +1,4 @@
-# Install script for directory: E:/Excercism/cpp/freelancer-rates
+# Install script for directory: E:/Exercism/cpp/freelancer-rates
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Excercism/cpp/freelancer-rates/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Exercism/cpp/freelancer-rates/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
