@@ -1,0 +1,7 @@
+# ninja log v6
+7	221	7484477384968288	CMakeFiles/raindrops.dir/raindrops.cpp.obj	81f1afcf118bb038
+2	604	7484477384917881	CMakeFiles/raindrops.dir/raindrops_test.cpp.obj	bb20d849fe7831e5
+10	10229	7484477385002543	CMakeFiles/raindrops.dir/test/tests-main.cpp.obj	94dcbf7e9debc5f3
+10230	30296	7484477487194217	raindrops.exe	b150086d05d2957
+6	665	7484477767328420	CMakeFiles/raindrops.dir/raindrops_test.cpp.obj	bb20d849fe7831e5
+665	20965	7484477773923810	raindrops.exe	b150086d05d2957

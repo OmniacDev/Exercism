@@ -1,0 +1,6 @@
+# ninja log v6
+2	757	7484447380331222	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	c671a737eccd4964
+7	2316	7484447380373451	CMakeFiles/lasagna.dir/test/tests-main.cpp.obj	d6118a184a3d18ba
+2316	2628	7484447403470549	lasagna.exe	aca44e2a64aeb3bb
+3	501	7484448032946345	CMakeFiles/lasagna.dir/lasagna_test.cpp.obj	c671a737eccd4964
+501	636	7484448037922565	lasagna.exe	aca44e2a64aeb3bb
