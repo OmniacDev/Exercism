@@ -1,4 +1,0 @@
-E:/Exercism/cpp/troll-the-trolls/cmake-build-debug/CMakeFiles/troll-the-trolls.dir
-E:/Exercism/cpp/troll-the-trolls/cmake-build-debug/CMakeFiles/test_troll-the-trolls.dir
-E:/Exercism/cpp/troll-the-trolls/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Exercism/cpp/troll-the-trolls/cmake-build-debug/CMakeFiles/rebuild_cache.dir
