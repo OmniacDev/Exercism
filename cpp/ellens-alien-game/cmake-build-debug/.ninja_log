@@ -1,6 +1,0 @@
-# ninja log v6
-7	14264	7485385154826124	CMakeFiles/ellens-alien-game.dir/test/tests-main.cpp.obj	1a713f59e85f7ca4
-8	698	7485385602560692	CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.obj	ef69d4df72871837
-699	21165	7485385609461866	ellens-alien-game.exe	f71f7ec227290c6f
-6	652	7485386358178987	CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.obj	ef69d4df72871837
-652	21094	7485386364633878	ellens-alien-game.exe	f71f7ec227290c6f
