@@ -1,4 +1,0 @@
-E:/Exercism/cpp/darts/cmake-build-debug/CMakeFiles/darts.dir
-E:/Exercism/cpp/darts/cmake-build-debug/CMakeFiles/test_darts.dir
-E:/Exercism/cpp/darts/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Exercism/cpp/darts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

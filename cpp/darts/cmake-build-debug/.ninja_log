@@ -1,5 +1,0 @@
-# ninja log v6
-11	150	7484510430887652	CMakeFiles/darts.dir/darts.cpp.obj	797501f412053cef
-621	26281	7484510436979986	darts.exe	a5b63b5e1ea92208
-6	620	7484510430837742	CMakeFiles/darts.dir/darts_test.cpp.obj	ab43dd028017c351
-11	11051	7484506739464610	CMakeFiles/darts.dir/test/tests-main.cpp.obj	afd1cfb157991886
