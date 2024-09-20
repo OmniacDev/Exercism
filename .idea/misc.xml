@@ -3,7 +3,7 @@
   <component name="CMakePythonSetting">
     <option name="pythonIntegrationState" value="YES" />
   </component>
-  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/cpp/ellens-alien-game">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/cpp/allergies">
     <contentRoot DIR="$PROJECT_DIR$" />
   </component>
 </project>
