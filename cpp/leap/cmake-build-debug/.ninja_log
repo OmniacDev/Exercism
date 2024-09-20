@@ -1,9 +1,0 @@
-# ninja log v6
-7	91	7484480904907712	CMakeFiles/leap.dir/leap.cpp.obj	3d2ef7eb96b7f41f
-3	581	7484480904862933	CMakeFiles/leap.dir/leap_test.cpp.obj	fa148e7ad825d95c
-11	10322	7484480904942803	CMakeFiles/leap.dir/test/tests-main.cpp.obj	a9da43715b051778
-10323	30756	7484481008069417	leap.exe	bdc1c625554f8434
-6	570	7484481372657050	CMakeFiles/leap.dir/leap_test.cpp.obj	fa148e7ad825d95c
-570	21727	7484481378287369	leap.exe	bdc1c625554f8434
-7	592	7484481884398495	CMakeFiles/leap.dir/leap_test.cpp.obj	fa148e7ad825d95c
-592	20682	7484481890246174	leap.exe	bdc1c625554f8434
