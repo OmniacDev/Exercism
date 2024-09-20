@@ -1,4 +1,0 @@
-# ninja log v6
-2	512	7484451221404447	CMakeFiles/pacman-rules.dir/pacman_rules_test.cpp.obj	8af5be66dd302203
-8	1874	7484451221454742	CMakeFiles/pacman-rules.dir/test/tests-main.cpp.obj	75b5d2b684faa84a
-1874	2179	7484451240113032	pacman-rules.exe	5c613def9fd96d1e
