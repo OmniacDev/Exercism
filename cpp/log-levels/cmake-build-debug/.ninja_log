@@ -1,6 +1,0 @@
-# ninja log v6
-8	10497	7484468586768781	CMakeFiles/log-levels.dir/test/tests-main.cpp.obj	baed8cc91826d064
-6	604	7484468721919404	CMakeFiles/log-levels.dir/log_levels_test.cpp.obj	d284349391107a46
-604	22249	7484468727898665	log-levels.exe	c2ed6afee9fe98fc
-6	610	7484471246120755	CMakeFiles/log-levels.dir/log_levels_test.cpp.obj	d284349391107a46
-610	23282	7484471252163977	log-levels.exe	c2ed6afee9fe98fc
